@@ -41,11 +41,11 @@ In investigating potential people counter models, I tried each of the following 
   
   Below is the screenshot which will show the runnning condition of the application.
   
-  ![First Person](screenshots/Screenshot from 2020-06-04 22-38-59.png)
-  ![Second Person](screenshots/Screenshot from 2020-06-04 22-39-32.png)
-  ![Third Person](screenshots/Screenshot from 2020-06-04 22-39-55.png)
-  ![Third Person](screenshots/Screenshot from 2020-06-04 22-40-20.png)
-  ![Fourth Person](screenshots/Screenshot from 2020-06-04 22-40-38.png)
+  ![First Person](screenshots/image1.png)\
+  ![Second Person](screenshots/image2.png)\
+  ![Third Person](screenshots/image3.png)\
+  ![Third Person](screenshots/image4.png)\
+  ![Fourth Person](screenshots/image5.png)
 
 
 
