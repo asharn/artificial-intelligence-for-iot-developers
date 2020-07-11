@@ -18,7 +18,7 @@
 Computer Pointer Controller is an application that uses a gaze detection model to control the mouse pointer using an input video or a live stream from your webcam
 
 ## Demo video
-[![Demo video](demo/image.png)](./bin/demo.mp4)
+[![Demo video](bin/image.png)](bin/demo.mp4)
 
 
 ## Project Setup and Installation
