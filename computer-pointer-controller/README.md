@@ -150,6 +150,7 @@ python <project_file.py directory> -fd <Face detection model name directory> -fl
 
 
 ## Directory Structure of the project 
+<pre>
 computer-pointer-controller/
 ├── bin
 │   └── demo.mp4
@@ -217,7 +218,7 @@ computer-pointer-controller/
     │   ├── input_feeder.cpython-37.pyc
     │   └── mouse_controller.cpython-37.pyc
     └── stats.txt
-
+</pre>
 - src folder contains all the source files:-
   * face_detection.py 
      - Contains preprocession of video frame, perform infernce on it and detect the face, postprocess the outputs.
