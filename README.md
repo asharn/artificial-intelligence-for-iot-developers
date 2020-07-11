@@ -6,10 +6,10 @@ This repo will contain different AI applied within IOT application especially cr
 - [Overview](#overview)
 - [Foundation Course](#foundation-course)
 - [List of projects you will develop](#list-of-projects)
-- [What you will be learned?](#what-you-will-be-learned?)
-- [What it Does?](#what-it-does?)
-- [How it Works?](#how-it-works?)
-- [Certificate](#certificate)
+- [What you will be learned?](#what-you-will-be-learned)
+- [What it Does?](#what-it-does)
+- [How it Works?](#how-it-works)
+- [View Certificate](#view-certificate)
 
 ## Overview
 After completing this degree, you will have enough knowledge to start implementing edge computing projects in your work. I am always learning and I take many online courses myself! So I know how difficult it was to take time out of your schedule and dedicate the many hours of hard work it took to complete this course. I know that there were some very difficult concepts to learn, some of the quizzes and coding exercises were tough, and the projects were challenging. 
@@ -45,7 +45,7 @@ Content to view all the projects are listed below:
 ![architectural diagram](./people-counter-app/images/arch_diagram.png)
 
 
-   ## Certificate?
+   ## View Certificate
    ![Certificate](certificate.pdf)
 
 
