@@ -46,7 +46,11 @@ Content to view all the projects are listed below:
 
 
    ## View Certificate
-   ![Certificate](certificate.pdf)
+   <object data="certificate.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="certificate.pdf">
+        <p>Please download the PDF to view it: <a href="certificate.pdf">Download PDF</a>.</p>
+    </embed>
+   </object>
 
 
    
