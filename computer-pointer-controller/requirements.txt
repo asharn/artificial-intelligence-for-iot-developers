@@ -4,4 +4,4 @@ ipython==7.16.3
 numpy==1.17.4
 Pillow==9.3.0
 requests==2.22.0
-virtualenv==16.7.9
+virtualenv==21.14.13
